@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706794555232",
+    "project_id": "note-e4e0f",
+    "storage_bucket": "note-e4e0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706794555232:android:6d8b46b26ae1976d62c005",
+        "android_client_info": {
+          "package_name": "ir.shahmirani.note"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu9kEZejGWqOS-nH7ogjAnjWkpjZsHrXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

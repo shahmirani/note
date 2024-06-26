@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">note</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type_your_email">type your email address</string>
+    <string name="type_your_pass">type your password</string>
+    <string name="retype_your_pass">retype your password</string>
+    <string name="sign_up">Sign_up</string>
+    <string name="sign_in">sign in</string>
+    <string name="registered_before">registered before?</string>
+    <string name="not_registered">not registered</string>
+    <string name="add_your_note">type your note</string>
+
+
+</resources>
